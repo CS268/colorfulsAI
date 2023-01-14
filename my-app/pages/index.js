@@ -364,7 +364,7 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./colorfulAI/colorful18.png" />
+          <img className={styles.image} src="./colorfulAI/colorful18.jpeg" />
         </div>
       </div>
 
